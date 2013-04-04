@@ -1,0 +1,1 @@
+ <?php. Header("Location: http://apps.facebook.com/259720817401522/"); exit; ?> 
